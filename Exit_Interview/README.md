@@ -10,10 +10,10 @@ The exit interview corroborated the reliability of the log data collected during
 
 A majority of the participants(90%) affirm that they predominantly relied on online platforms for their shopping needs, which mostly include electronics, accessories, and clothing. On average these participants indicated spending approximately 30 to 40 minutes selecting a product of interest and completing the payment process. Furthermore, they typically reviewed an average of four products before finalizing a purchase.
 
-### Navigating E-commerce platforms can be tedious
+### Navigating E-commerce platforms can be tedious:
 
 Notably, at least 60% of the participants sought external assistance during their online shopping  process, necessitated by several usability challenges reported on e-commerce platforms. Specifically, these participants rated the difficulty of information retrieval at 4.1 without external aid, which significantly decreased to 2.2 when assisted, on a 5-point Likert scale where 1 represents "Very Easy" and 5 "Very Hard". Over 60% of participants noted that accessing information represented through images was extremely challenging due to inaccurate descriptions, a common issue on online shopping websites that significantly hinders accessibility. While a minority (30%) refrained from purchasing products lacking adequate details, the majority dedicated substantial time to examining reviews and detail pages for information.
 
-### Preference for advanced navigational assistance
+### Preference for advanced navigational assistance:
 
 Although participants expressed a preference for human assistance in accessing and validating information on online shopping platforms, this was not always feasible. In these instances, proficient screen reader users (40%) relied on advanced navigation techniques to strategically locate information. Meanwhile, other users suggested website design improvements, emphasizing the need for structural uniformity (80%), accurate descriptions of visual elements (50%), and the implementation of question-answering systems akin to those found in Amazon reviews.
