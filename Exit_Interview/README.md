@@ -1,0 +1,19 @@
+# Exit Interview
+The user study concluded with a semi-structured exit interview wherein we collected information about the online shopping habits and preferences of our participants. This adds to the internal validity of the study findings, ensuring the insights drawn are reliable and free from bias.  
+The first question aimed to understand how often the participant shopped online. Responses to this question were recorded on a seven-point Likert scale with options ranging from $1$=Rarely ever, $2$=once a month, $3$=once two weeks, $4$=once a week, $5$=$2$-$4$ times a week, $6$ = more than $5$ times a week, and $7$=every day. The following two questions explored the participants' most recent online purchases, focusing on the approximate time spent browsing and the number of different products considered before making a final decision. Questions 9 to 12 examined the challenges BVI participants encountered when navigating e-commerce platforms.
+We also asked the participants to list online shopping websites they were comfortable using and the reasons behind their choice of these websites, such as accessibility compliance of the websites, their familiarity with the website layout, ease of checkout and login, available discounts, and offers, and the range of product categories. The interview concluded with an open-ended question, inviting participants to suggest improvements to enhance their online shopping experiences.
+
+## Exit Interview Analysis
+The exit interview corroborated the reliability of the log data collected during the study. The following insights were drawn from a qualitative analysis of subjective feedback from the participants :
+
+### Online shopping experiences of blind users: 
+
+A majority of the participants(90%) affirm that they predominantly relied on online platforms for their shopping needs, which mostly include electronics, accessories, and clothing. On average these participants indicated spending approximately 30 to 40 minutes selecting a product of interest and completing the payment process. Furthermore, they typically reviewed an average of four products before finalizing a purchase.
+
+### Navigating E-commerce platforms can be tedious
+
+Notably, at least 60% of the participants sought external assistance during their online shopping  process, necessitated by several usability challenges reported on e-commerce platforms. Specifically, these participants rated the difficulty of information retrieval at 4.1 without external aid, which significantly decreased to 2.2 when assisted, on a 5-point Likert scale where 1 represents "Very Easy" and 5 "Very Hard". Over 60% of participants noted that accessing information represented through images was extremely challenging due to inaccurate descriptions, a common issue on online shopping websites that significantly hinders accessibility. While a minority (30%) refrained from purchasing products lacking adequate details, the majority dedicated substantial time to examining reviews and detail pages for information.
+
+### Preference for advanced navigational assistance
+
+Although participants expressed a preference for human assistance in accessing and validating information on online shopping platforms, this was not always feasible. In these instances, proficient screen reader users (40%) relied on advanced navigation techniques to strategically locate information. Meanwhile, other users suggested website design improvements, emphasizing the need for structural uniformity (80%), accurate descriptions of visual elements (50%), and the implementation of question-answering systems akin to those found in Amazon reviews.
